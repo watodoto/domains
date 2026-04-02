@@ -1,1 +1,2 @@
-fun fact this is all really really gay... bwahhhhhh :(
+i feel like this repository is self explanatory enough and i dont really need to put a readme here<br>
+oh well...
