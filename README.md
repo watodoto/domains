@@ -1,2 +1,1 @@
-fun fact this is all really really gay
-\bah bah
+fun fact this is all really really gay... bwahhhhhh :(
