@@ -14,10 +14,6 @@ misem.or.id - Allowed
 greenbaynz.com - Allowed
 rcdx93.net - Allowed
 playariviera.com - Allowed
-lafest-hub.com - Something went wrong...
-kora.cl - Something went wrong...
-cheapclip.ru - Something went wrong...
-sandi.web.id - Something went wrong...
 superiority.uk - Allowed
 drewmcphee.com - Allowed
 expo-vpa.ru - Allowed
@@ -274,8 +270,6 @@ pilatesfitness.co.uk - Allowed
 zedbogey.com - Allowed
 landser.net - Allowed
 spectrumliberty.com - Allowed
-skoglump.org - Something went wrong...
-hotelconsuladoinn.com - Something went wrong...
 tenuecorrectexigee.fr - Allowed
 conductum.eu - Allowed
 yaishio.com - Allowed
@@ -600,7 +594,6 @@ icoach.com - Allowed
 nri.ca - Allowed
 astroarquetipica.com.ar - Allowed
 openchain.pt - Allowed
-jacqandwillwentupthehill.com - Something went wrong...
 peterwilbers.nl - Allowed
 portent.co.za - Allowed
 buymojatom.com - Allowed
@@ -1069,8 +1062,6 @@ palmerfamily.id.au - Allowed
 zipsernet.sk - Allowed
 laluneta.com.ar - Allowed
 venom.org - Allowed
-acharalaw.com - Something went wrong...
-death.cl - Something went wrong...
 cajaprovidencia.com - Allowed
 littlepipis.co.nz - Allowed
 papelier.com.br - Allowed
@@ -1170,7 +1161,6 @@ horstdieblaskapelle.ch - Allowed
 seriousdispute.com - Allowed
 lizzyinbrizzy.com - Allowed
 chewingwax.com - Allowed
-k4w411.net - Something went wrong...
 fuel5.com - Allowed
 laurengillett.com - Allowed
 bellamar.com.ar - Allowed
@@ -1194,7 +1184,6 @@ osperkins.com.ar - Allowed
 media54.com - Allowed
 catros.com - Allowed
 newburyweather.org.uk - Allowed
-dotech.com.br - Something went wrong...
 titantech.co.za - Allowed
 zopyra.com - Allowed
 netgate.co.za - Allowed
