@@ -1,4 +1,5 @@
-i feel like this repository is self explanatory enough and i dont really need to put a readme here<br>
-oh well...<br>
-ts is updated as of: april 2nd, 2026, at like 7:43 am eastern time..<br>
-weather update: i updated some filters april 4th im lowkey not contributing to contentkeeper until i find good thingy
+## frih dih nih sih
+explanation: basically I ~~wrote~~ skidded a script to automatically check filters using their apis and stuff with EVERY freedns domains listed
+
+- filters that are found to barely block anything will be updated way less
+- contentkeeper will not be updated as frequently because it takes 7 hours for me to complete it (please save me if you have a better way)
